@@ -1,0 +1,2 @@
+# Infografics
+Para almacenar infográficos
